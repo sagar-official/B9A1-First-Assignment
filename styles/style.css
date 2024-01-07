@@ -114,4 +114,58 @@ font-size: 20px;
 font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
+margin-top: 40px;
+/* margin-left: 30px; */
+}
+
+.place_date_time {
+width: 1320px;
+height: 482px;
+background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+margin: 120px auto;
+}
+.container{
+text-align: center;
+padding: 100px 386px 214px 380px;
+
+}
+
+.adderess,
+.location,
+.time_managment {
+color: #070211;
+font-family: Inter;
+font-size: 27px;;
+font-weight: 600;
+line-height: 50px;
+text-transform: capitalize;
+
+}
+
+.location{
+margin-top: -20px;
+}
+
+.time_managment{
+    margin-top: -20px;
+
+}
+.orange_color,
+.komola_kalar,
+.jibon_sadakalo{
+    color: #F00;
+}
+.local_btn{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+border: 0;  
+margin-top: 40px;
 }
