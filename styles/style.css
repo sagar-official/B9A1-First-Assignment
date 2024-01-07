@@ -1,0 +1,117 @@
+*{
+    font-family: 'Merriweather', serif,'Inter', sans-serif;;
+}
+.hero_section{
+width: 1320px;
+height: 600px;
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Banner\ Image.png);
+background-repeat: no-repeat;
+margin: 30px 100px;
+border-radius: 16px;
+background-size: cover;
+font-family: Merriweather;
+
+}
+
+.header_section{
+text-align: center;
+padding-top: 140px;
+}
+
+.First_title{
+color: #FFF;
+text-align: center;
+font-size: 32px; 
+font-weight: 400;
+padding-bottom: 0px;
+font-family: Merriweather;
+margin-bottom: -26px;
+
+
+}
+.second_title{
+padding-top: 0;    
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px; 
+}
+
+.discount_container{
+text-align: center;
+margin-top: 120px;
+}
+.first_discount{
+font-family: Inter;
+color: #F00;
+font-size: 88px;
+font-weight: 700;
+}
+
+.discount_title{
+font-family: Inter;
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.discount_catagory {
+color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.Happy_new_year{
+width: 802.9px;
+height: 500px;
+margin-left: 25%;
+}
+
+.welcome_section{
+background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../resources/Vectorrr.png');
+width: 1320px;
+height: 600px;
+margin: 120px auto; 
+}
+
+.Welcome_title{
+padding: 90px 552px 298px 126px;
+
+}
+.midnight_party{
+color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+
+}
+
+.party_disciption{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+margin-top: -45px;
+    
+
+}
+.welcomr_btn {
+color: #FFF;
+text-align: left;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
