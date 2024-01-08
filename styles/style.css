@@ -80,6 +80,11 @@ width: 1320px;
 height: 600px;
 margin: 120px auto; 
 }
+.new_year_png{
+    float: right;
+    margin-top: 90px;
+    margin-right: 100px;
+}
 
 .Welcome_title{
 padding: 90px 552px 298px 126px;
@@ -182,12 +187,7 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
-/* width: 463px;
-height: 463px
-border: 15px solid #F00;
-border-radius: 463px; */
-
-   
+ 
 }
 .left_side{
     margin-left: 90px;
@@ -207,8 +207,8 @@ text-align: center;
 font-family: Inter;
 font-size: 24px;;
 font-weight: 500;
-margin-bottom: -30px;
-margin-left: -40px;
+margin-bottom: -60px;
+margin-left: -160px;
 }
 
 .main_title{
@@ -249,17 +249,7 @@ width: 140px;
 height: 140px;
 
 }
-/* 
-.profile_pic{ 
-width: 364.844px;
-height: 364.844px;
-border-radius: 364.844px;
-background:lightgray -91.279px 0px;
-width: 463px;
-height: 463px;
-border-radius: 463px;
-border: 15px solid #F00
-} */
+
 
 .profile_pic{
 width: 400px;
@@ -279,5 +269,270 @@ transform: translate(-50%,-50%);
 }
 
 .main_div{
-    padding-left: 70px;
+    padding-left: 10px;
+}
+
+
+.parent_div{
+    margin: 140px auto;
+}
+.bussiness_zone{
+text-align: center;
+margin: 190px auto;
+}
+.short_title{
+color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: -50px;
+}
+
+.main_title{
+color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+   
+}
+.ami_jani_na{
+color: #F00;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+
+.title_discription{
+ color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+margin-top: -50px;
+}
+
+.info_portfolio{
+margin-left: 5%;
+
+
+
+}
+
+.shopping_zone{
+display: block;
+width: 424px;
+height: 450px;
+padding: 10px;
+float: left;
+}
+
+
+
+.portfolio_title{
+color: #F00;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: -40px;
+ }
+
+ .portfolio_header{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+margin-bottom: -10px;
+}
+
+
+.portfolio_discription{
+color: #6c6b6e;
+font-family: Merriweather;
+font-size: 17px;
+font-weight: 900;
+text-transform:capitalize;
+}
+
+
+
+
+.background_problem{
+border-radius: 16px;
+margin-top: 1000px;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.form_container{
+background: rgba(255, 0, 0, 0.05);
+}
+
+.mail_box{
+    margin-left: 45%;
+    padding-top: 20px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: -40px;
+
+}
+
+.captios,
+.image_discription{
+    text-align: center;
+    
+    
+}
+.captios{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom: ;
+    margin-bottom: -17px;
+}
+.image_discription{
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+}
+
+.new_btn{
+margin-left: 29%;
+background: ;
+width: 340px;
+height: 50px;
+border: none;
+outline: none;
+padding: 0px 25px;
+border-radius: 25px 0 0 25px;
+
+}
+
+.submit_btn{
+    position: relative;
+    left: -10;  
+    border-radius: 0 25px 25px 0;
+    width: 150px;
+    height: 50px;
+    background: #F00;
+    border: 0;
+    color: white;
+
+}
+
+.btn{
+    margin: 35px 0;
+    padding-bottom: 60px;
+}
+
+.footer_option{
+height: 609px;
+background-color: black;
+margin-top: 110px;
+
+
+}
+
+.discription_inbox{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-left: 150px;
+padding-top: 160px;
+color: #FFF;
+font-weight: 500;
+line-height: 40px;
+   
+}
+
+.common_one,
+.common_two{
+text-align: right;
+margin-top: -90px;
+margin-right: 227px;
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+
+}
+
+.common_two{
+    margin-top: -25px;
+    padding-left: 20px;
+}
+
+
+.top_line{
+    margin-top: 60px;
+}
+
+
+.phone_icon{
+padding-right: 15px;
+
+   
+}
+
+.website_icon{
+    padding-right: 10px;
+
+}
+.facebook{
+   display: flex;
+    margin-left: 35%;
+    display: inline-block;
+    
+}
+
+.Instagram{
+    margin-left: 41%;
+    margin-top: -68px;  
+    
+}
+.Twitter{
+    margin-left: 49%; 
+    margin-top: -68px;
+        
+}
+
+.Linkedin{
+    margin-left: 55%; 
+    margin-top: -68px;  
+    
+}
+
+.bottom_line{
+    
+}
+
+.footer_last_title,
+.unsubscribe{
+color: white;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+
+.footer_last_title{
+    margin-left: 140px;
+    margin-top: 130px;
+}
+
+.unsubscribe{
+text-align: right;
+margin-right: 227px;
+margin-top: -60px;
+
 }
